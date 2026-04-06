@@ -15,9 +15,12 @@ Through a custom **Transitional Overlap Study**, we quantified the reliability o
 
 ### 2. The "Gold Standard 6" (0% Overlap)
 The analysis successfully filtered the feature space down to a core cluster of **Perfect Separators**. These markers exhibit **0% transitional overlap**, making them the only deterministic indicators for CKD staging:
-*   **eGFR** (Mathematical Anchor) & **Serum Creatinine** (Metabolic Anchor)
-*   **BUN** (Blood Urea Nitrogen) & **Albumin-Creatinine Ratio (ACR)**
-*   **Urine Albumin** & **Urine Protein**
+*   **eGFR** (Mathematical Anchor)
+*   **Serum Creatinine** (Metabolic Anchor)
+*   **BUN** (Blood Urea Nitrogen)
+*   **Albumin-Creatinine Ratio (ACR)**
+*   **Urine Albumin**
+*   **Urine Protein**
 
 ### 3. The Serum Albumin Paradox
 We identified that **Serum Albumin** carries **100% ambiguity** across adjacent stages. This confirms that blood protein levels remain remarkably stable during disease progression, proving it is a "Late-Stage Crisis" marker rather than an early-detection tool.
