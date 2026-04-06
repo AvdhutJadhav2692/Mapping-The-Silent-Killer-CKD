@@ -7,7 +7,7 @@ The research focuses on the **"Statistical Deception"** inherent in CKD diagnost
 
 ---
 
-## 🔍 Key Research Discoveries (The "Aha!" Moments)
+## 🔍 Key Research Discoveries
 
 ### 1. The Ambiguity Zone Analysis
 Through a custom **Transitional Overlap Study**, we quantified the reliability of every marker. We discovered that systemic markers (e.g., **Hemoglobin, Bicarbonate, Packed Cell Volume**) show a **35% to 60% overlap** across adjacent stages.
