@@ -14,7 +14,7 @@ The research focuses on the **"Statistical Deception"** inherent in CKD diagnost
 
 ## 📂 Project Files
 *   🚀*   🚀 **[Interactive Data Report](https://avdhutjadhav2692.github.io/Quantitative-Analysis-of-Clinical-Staging-Ambiguity-in-Chronic-Kidney-Disease-CKD-/Report.html)** 
-*   💻 **[Jupyter Notebook Source Code]([./CKD_Analysis_and_Modeling.ipynb](https://avdhutjadhav2692.github.io/Quantitative-Analysis-of-Clinical-Staging-Ambiguity-in-Chronic-Kidney-Disease-CKD-/Report.html))** (Best for reviewing the Python logic and data transformations)
+*   💻 **[Jupyter Notebook Source Code (via NBViewer)](https://nbviewer.org/github/AvdhutJadhav2692/Quantitative-Analysis-of-Clinical-Staging-Ambiguity-in-Chronic-Kidney-Disease-CKD-/blob/main/Quantitative%20Analysis%20of%20Clinical%20Staging%20Ambiguity%20in%20Chronic%20Kidney%20Disease%20%28CKD%29.ipynb)**  
 
 ---
 
