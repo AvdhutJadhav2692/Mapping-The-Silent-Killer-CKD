@@ -1,10 +1,5 @@
 # Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge)
-![Statistical Validation](https://img.shields.io/badge/Statistical-Validation-success?style=for-the-badge)
-![Imbalance Handling](https://img.shields.io/badge/Class%20Imbalance-Mitigation-red?style=for-the-badge)
-
 ## 📌 Project Overview
 This repository presents an extensive **Exploratory Data Analysis (EDA)** of a clinical dataset containing **21,000 observations** and **36 clinical variables**. 
 
